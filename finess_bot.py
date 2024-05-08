@@ -1,8 +1,6 @@
 import streamlit as st
 import google.generativeai as genai
 # from langchain import PromptTemplate, FewShotPromptTemplate
-from dotenv import load_dotenv
-load_dotenv()
 import os
 
 
