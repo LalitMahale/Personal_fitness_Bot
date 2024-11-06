@@ -33,7 +33,7 @@ Start your fitness journey with the bot here: [AI-Powered Fitness Bot](https://l
 ## Usage
 1. Start the bot:
    ```bash
-   python fitness_bot.py
+   streamlit run fitness_bot.py
    ```
 2. Follow the prompts to get personalized fitness plans, ask questions, or track progress.
 
